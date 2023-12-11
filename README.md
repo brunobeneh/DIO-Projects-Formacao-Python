@@ -1,2 +1,2 @@
-# DIO-Projects
-Projetos desenvolvidos nos cursos e bootcamps dentro da plataforma DIO.
+# DIO-Projects-Formacao-Python
+Projetos desenvolvidos no curso de Formação em Python na plataforma DIO.
